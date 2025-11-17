@@ -79,8 +79,5 @@ const float CURRENT_SENSITIVITY = 20.86; // Sensibilité SCT-013
 ## 📄 License
 
 MIT License
-
-```
-
 Veux‑tu que je fasse ça ?
 ```
